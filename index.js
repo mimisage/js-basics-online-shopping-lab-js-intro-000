@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- cart.push[item]
+ cart.push(item)
  retun addToCart
 }
 
