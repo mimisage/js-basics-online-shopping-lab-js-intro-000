@@ -11,6 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
   cart.push({[item]:[name]})
+  console.log(cart)
  return cart
 }
 
